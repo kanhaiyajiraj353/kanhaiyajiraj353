@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyajiraj353" alt="kanhaiyajiraj353" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@kanhaiyajiraj3" target="blank"><img src="https://img.shields.io/twitter/follow/@kanhaiyajiraj3?logo=twitter&style=for-the-badge" alt="@kanhaiyajiraj3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kanhaiyajiraj3" target="blank"><img src="https://img.shields.io/twitter/follow/kanhaiyajiraj3?logo=twitter&style=for-the-badge" alt="kanhaiyajiraj3" /></a> </p>
 
 - 📫 How to reach me **kairaj353@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@kanhaiyajiraj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kanhaiyajiraj3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanhaiya-ji-raj-3733a21b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanhaiya-ji-raj-3733a21b8/" height="30" width="40" /></a>
+<a href="https://twitter.com/kanhaiyajiraj3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanhaiyajiraj3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanhaiyajiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhaiyajiraj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kanhaiyajiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kanhaiyajiraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kanhaiyajiraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kanhaiyajiraj/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kanhaiyajiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kanhaiyajiraj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanhaiyajiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanhaiyajiraj" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kanhaiyajiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanhaiyajiraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
